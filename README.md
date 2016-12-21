@@ -7,7 +7,7 @@ This is a versioned repository of social media policy and guidelines for the Cit
 
 This versioned policy document was authored and compiled by DCA Digital team, Nicole Rademacher, Digital Communications Manager; Wendy Hsu, Digital Strategist, with guidance from DCA’s Marketing and Development Will Caperton-Montoya.
 
-Some of the content and structure was adapted from the Hammer Museum’s Social Media Guidelines, 18th Street Arts Center’s Social Media Manual, and San Francisco Arts Commission’s Communications Policies and Procedures. 
+Some of the content and structure were adapted from the Hammer Museum’s Social Media Guidelines, 18th Street Arts Center’s Social Media Manual, and San Francisco Arts Commission’s Communications Policies and Procedures. 
 
 Mission and boilerplate information adapted from DCA New Boilerplate FY1516 4.15.16.doc.
 
