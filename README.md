@@ -1,7 +1,16 @@
 #City of Los Angeles Department of Cultural Affairs
-## Social Media Policy And Guidelines
+## Social Media Policy and Guidelines
 
 This is a versioned repository of social media policy and guidelines for the City of Los Angeles Department of Cultural Affairs (DCA). It was developed to ensure the proper usage of DCA’s identity and social media platforms and established for the sole purpose of maintaining unity and public presentation awareness. When these guidelines are adhered to and used consistently, the developed graphics, elements, and messaging will create a strong aesthetic and brand awareness across platforms.
+
+###STATEMENT OF PURPOSE
+
+This strategy document is an open-source repository made available under a [Creative Commons Attribution-NonCommercial-ShareAlike](https://creativecommons.org/licenses/by-nc-sa/4.0/) license. You can find the source files on DCA Digital’s GitHub account.
+
+Using GitHub, DCA Digital will continue to track our collaborative development of this set of policy and guidelines. We took inspirations from The Andy Warhol Museum’s public repository of [digital strategy](https://github.com/thewarholmuseum/digital-strategy/) and adopted the open source practice from software development. Open sourcing the process and framework of social media policy and guidelines formation resonates with the public mission of the Department of Cultural Affairs. 
+
+If your public agency is working on policies and guidelines for your social media channels, fork ours. Submit a pull request if you have idea that could improve policy throughout the public and arts sector. File an issue ticket if you notice a problem or bug. Feel free to share, adapt or repurpose our source for your organization.
+
 
 ###ATTRIBUTION
 
