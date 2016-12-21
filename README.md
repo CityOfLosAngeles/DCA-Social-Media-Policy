@@ -9,7 +9,7 @@ This policy document is an open-source repository made available under a [Creati
 
 Using GitHub, DCA Digital continues to track ad document our collaborative policy development. We took inspirations from The Andy Warhol Museum’s public repository of [digital strategy](https://github.com/thewarholmuseum/digital-strategy/) and adopted the open source practice from software development. Sharing the content, process, and framework of our policy and guidelines formation furthers the public mission of the Department of Cultural Affairs. 
 
-If your public agency is working on policies and guidelines for your social media channels, fork ours. Submit a pull request if you have idea that could improve policy throughout the public and arts sector. File an issue ticket if you notice a problem or bug. Feel free to share, adapt or repurpose our source for your organization.
+If your agency is working on policies and guidelines for your social media channels, fork ours. Submit a pull request if you have idea that could improve policy throughout the public and arts sector. File an issue ticket if you notice a problem or bug. 
 
 
 ###ATTRIBUTION
