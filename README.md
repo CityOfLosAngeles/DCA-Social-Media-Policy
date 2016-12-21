@@ -18,8 +18,6 @@ This versioned policy document is authored and compiled by DCA Digital team, Wen
 
 Some of the content and structure were adapted from the Hammer Museum’s Social Media Guidelines, 18th Street Arts Center’s Social Media Manual, and San Francisco Arts Commission’s Communications Policies and Procedures. 
 
-Mission and boilerplate information adapted from DCA New Boilerplate FY1516 4.15.16.doc.
-
 ###LICENSING
 
 This repository is released under Creative Commons Attribution-NonCommercial 4.0 International License (CC BY-NC 4.0). This means that you can share/remix the content from this repository as long as you credit the City of Los Angeles Department of Cultural Affairs and use it in noncommercial contexts.
