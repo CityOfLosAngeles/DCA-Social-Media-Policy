@@ -1,5 +1,5 @@
 #City of Los Angeles Department of Cultural Affairs
-## Social Media Policy and Guidelines
+## Social Media Policy And Guidelines
 
 This is a versioned repository of social media policy and guidelines for the City of Los Angeles Department of Cultural Affairs (DCA). It was developed to ensure the proper usage of DCA’s identity and social media platforms and established for the sole purpose of maintaining unity and public presentation awareness. When these guidelines are adhered to and used consistently, the developed graphics, elements, and messaging will create a strong aesthetic and brand awareness across platforms.
 
