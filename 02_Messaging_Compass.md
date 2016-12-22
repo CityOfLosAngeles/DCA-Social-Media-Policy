@@ -1,12 +1,12 @@
 #02_MESSAGING COMPASS
 
 ##DCA KEY VALUES
-*Friendly
-*Progressive
-*Collaborative
-*Accessible
-*Transparent
-*Authentic
+* Friendly
+* Progressive
+* Collaborative
+* Accessible
+* Transparent
+* Authentic
 
 ##KEY MESSAGING
 
@@ -37,4 +37,4 @@ Formed in 1925, DCA promotes arts and culture as a way to ignite a powerful dial
 
 DCA advances the social and economic impact of arts and culture through grantmaking, public art, community arts, and strategic marketing and development. DCA creates and supports arts programming, maximizing relationships with other city agencies, artists, and arts and cultural nonprofit organizations to provide excellent service in neighborhoods throughout Los Angeles.
 
-For more information, please visit http://culturela.org - automatic! or follow us on Facebook at [facebook.com/culturela](http://facebook.com/culturela); Instagram [@culture_la](http://instagram.com/culture_la); Twitter [@culture_la](http://twitter.com/culture_la); and Snapchat culture_la.
+For more information, please visit http://culturela.org or follow us on Facebook at [facebook.com/culturela](http://facebook.com/culturela); Instagram [@culture_la](http://instagram.com/culture_la); Twitter [@culture_la](http://twitter.com/culture_la); and Snapchat culture_la.
