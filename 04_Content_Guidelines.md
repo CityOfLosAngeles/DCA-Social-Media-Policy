@@ -49,22 +49,19 @@ All requests will be processed in the order they were received. Rush/Immediate r
 
 We have developed a general audience persona. Write posts as if they were going to the following person.
 
-Carolina Rowland
-Female
-Mid-30s
-Mother of 1: girl 9/10 years old
-Household income: $62k
-Not married, but friendly with the father of her child
-Rents her home
-Latina/African American
-Originally from Los Angeles
-LGBT Advocate
-
-Started studying studio art at UC Santa Cruz, but finished with a BA in Critical Race and Ethnic Studies.
-
-Works as a managerial level admin at Cal State Long Beach in the Art Department.
-
-Takes care in decorating her home and cooking.
+**Carolina Rowland**
+* Female
+* Mid-30s
+* Mother of 1: girl 9/10 years old
+* Household income: $62k
+* Not married, but friendly with the father of her child
+* Rents her home
+* Latina/African American
+* Originally from Los Angeles
+* LGBT Advocate
+* Started studying studio art at UC Santa Cruz, but finished with a BA in Critical Race and Ethnic Studies.
+* Works as a managerial level admin at Cal State Long Beach in the Art Department.
+* Takes care in decorating her home and cooking.
 
 ##4.3 Best Practices
 
