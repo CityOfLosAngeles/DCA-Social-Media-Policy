@@ -1,6 +1,6 @@
 #3. STYLE GUIDE
 
-##3.1 NAMING AND SPELLING 
+##3.1 Naming and Spelling
 
 City of Los Angeles Department of Cultural Affairs (DCA)
 
@@ -44,7 +44,7 @@ DCA Programs and Initiatives (Sample)
 * Private Arts Development Fee Program (ADF)
 * City Art Collection
 
-##3.2 GRAMMAR AND PUNCTUATIONS
+##3.2 Grammar and Punctuations
 
 ###Serial Comma
 
@@ -70,7 +70,7 @@ Image credits are written in the following format: Artist, Title, Year, Size, Ma
 
 All titles (shows or works) are italicized. If they cannot be italicized, put them in quotes, i.e. "Winning the Freedom to Marry.”
 
-##3.3 FURTHER REFERENCES
+##3.3 Further References
 
 For other grammar and citation questions, please consult the [Chicago Style Handbook](https://owl.english.purdue.edu/owl/resource/717/01/).
 
