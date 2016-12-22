@@ -1,4 +1,4 @@
-#3. STYLE GUIDE
+#3. Style Guide
 
 ##3.1 Naming and Spelling
 
