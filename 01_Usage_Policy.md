@@ -1,5 +1,7 @@
 #1. USAGE POLICY
 
+##1.1 Guidelines
+
 These are the guidelines and recommended practices for DCA-operated social media and personal engagement with social media. If you have suggestions for how to make these guidelines more helpful and encouraging for further engagement, please contact DCA’s Director of Marketing and Development.
 
 1. Administrators of DCA-sponsored social media shall include a disclaimer statement on the profile “Users and visitors to this social media site shall be notified that the intended purpose of the site is to serve as a mechanism for communication between DCA and members of the public. We reserve the right to remove any posts or comments that are offensive or inappropriate.”
@@ -10,6 +12,6 @@ These are the guidelines and recommended practices for DCA-operated social media
 
 4. Be aware that any social media content, whether public or private, may be subject to public disclosure.
 
-##COMPLIANCE
+##1.2 COMPLIANCE
 
 DCA reserves the right to request that online communications cease if content from an employee, volunteer, and/or intern are in violation of organizational policies, values, or local, state, or federal privacy and intellectual property.
