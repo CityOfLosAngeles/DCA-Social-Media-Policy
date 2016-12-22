@@ -27,19 +27,19 @@
 
 ##4.2 Procedure
 
-Requests
+###Requests
 
 Requests for promotion on official DCA Social Media channels are the responsibility of each program director and/or Cultural Center director. Requests for Social Media promotion must be submitted through the request form. The form must be complete.
 
-Deadlines
+###Deadlines
 
 Requests for promotion on official DCA Social Media channels must be submitted at least 5 business days before requested post date(s).
 
-Approval
+###Approval
 
 Images and copy will be reviewed for approval prior to post scheduling. Note: we ask for images clear of text and/or graphic elements. We ask this to maintain unity and consistency across channels.
 
-Submission
+###Submission
 
 All requests will be processed in the order they were received. Rush/Immediate requests are discouraged. All rush requests must be approved by DCA’s Director of Marketing and Development.
 
