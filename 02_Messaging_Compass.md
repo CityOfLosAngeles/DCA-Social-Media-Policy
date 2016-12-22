@@ -1,6 +1,6 @@
 #2. MESSAGING COMPASS
 
-##2.1 KEY VALUES
+##2.1 Key Values
 * Friendly
 * Progressive
 * Collaborative
@@ -8,7 +8,7 @@
 * Transparent
 * Authentic
 
-##2.2 KEY MESSAGING
+##2.2 Key Messaging
 
 ###DCA Mission
 
