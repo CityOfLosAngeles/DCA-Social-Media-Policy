@@ -5,16 +5,17 @@ This is a versioned repository of social media policy and guidelines for the Cit
 
 ###STATEMENT OF PURPOSE
 
-This policy document is an open-source repository made available under a [Creative Commons Attribution-NonCommercial-ShareAlike](https://creativecommons.org/licenses/by-nc-sa/4.0/) license. You can find the source files on DCA Digital’s GitHub account.
+This policy document is an open-source repository made available under a [Creative Commons Attribution-NonCommercial-ShareAlike](https://creativecommons.org/licenses/by-nc-sa/4.0/) license. 
 
 Using GitHub, DCA Digital continues to track ad document our collaborative policy development. We took inspirations from The Andy Warhol Museum’s public repository of [digital strategy](https://github.com/thewarholmuseum/digital-strategy/) and adopted the open source practice from software development. Sharing the content, process, and framework of our policy and guidelines formation furthers the public mission of the Department of Cultural Affairs. 
 
 If your agency is working on policies and guidelines for your social media channels, fork ours. Submit a pull request if you have idea that could improve policy throughout the public and arts sector. File an issue ticket if you notice a problem or bug. 
 
+Questions or comments about the policy can be sent to dca.digital@lacity.org.
 
 ###ATTRIBUTION
 
-This repository is authored and compiled by DCA Digital team, Wendy Hsu, Digital Strategist and Nicole Rademacher, Digital Communications Manager. It was approved by DCA’s Marketing and Development Will Caperton-Montoya.
+This repository is authored and compiled by DCA Digital team, Wendy Hsu, Digital Strategist and Nicole Rademacher, Digital Communications Manager. It was approved by DCA’s Marketing and Development Director Will Caperton-Montoya.
 
 Some of the content and structure were adapted from the Hammer Museum’s Social Media Guidelines, 18th Street Arts Center’s Social Media Manual, and San Francisco Arts Commission’s Communications Policies and Procedures. 
 
