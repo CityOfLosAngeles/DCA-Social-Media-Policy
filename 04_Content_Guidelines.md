@@ -63,7 +63,7 @@ We have developed a general audience persona. Write posts as if they were going 
 * Works as a managerial level admin at Cal State Long Beach in the Art Department.
 * Takes care in decorating her home and cooking.
 
-##4.3 Best Practices
+##4.4 Best Practices
 
 ###Create Epic Content
 
