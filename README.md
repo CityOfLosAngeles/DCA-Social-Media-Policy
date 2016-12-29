@@ -7,7 +7,7 @@ This is a versioned repository of social media policy and guidelines for the Cit
 
 This policy document is an open-source repository made available under a [Creative Commons Attribution-NonCommercial-ShareAlike](https://creativecommons.org/licenses/by-nc-sa/4.0/) license. 
 
-Using GitHub, DCA Digital continues to track ad document our collaborative policy development. Taking inspirations from The Andy Warhol Museum’s public repository of [digital strategy](https://github.com/thewarholmuseum/digital-strategy/), we adopted the open source practice from software development. Sharing the content, process, and framework of our policy and guidelines help further the DCA's public mission of access and transparency. 
+Using GitHub, DCA Digital continues to track and document our collaborative policy development. Taking inspirations from The Andy Warhol Museum’s public repository of [digital strategy](https://github.com/thewarholmuseum/digital-strategy/), we adopted the open source practice from software development. Sharing the content, process, and framework of our policy and guidelines can help further DCA's public mission of access and transparency. 
 
 If your agency is working on policies and guidelines for your social media channels, fork ours. Submit a pull request if you have idea that could improve policy throughout the public and arts sector. File an issue ticket if you notice a problem or bug. 
 
