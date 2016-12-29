@@ -17,7 +17,7 @@ Questions or comments about the policy can be sent to dca.digital@lacity.org.
 
 This repository is authored and compiled by DCA Digital team, Wendy Hsu, Digital Strategist and Nicole Rademacher, Digital Communications Manager. It was approved by DCA’s Director of Marketing and Development Will Caperton-Montoya.
 
-Some of the content and structure were adapted from the Hammer Museum’s Social Media Guidelines, 18th Street Arts Center’s Social Media Manual, and San Francisco Arts Commission’s Communications Policies and Procedures. 
+Some of the content and structure was adapted from the Hammer Museum’s Social Media Guidelines, 18th Street Arts Center’s Social Media Manual, and San Francisco Arts Commission’s Communications Policies and Procedures. 
 
 ###Licensing
 
