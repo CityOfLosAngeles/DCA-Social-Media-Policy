@@ -1,6 +1,6 @@
 #5. Platform Specific Guidelines
 
-##5.1 Facebooke
+##5.1 Facebook
 
 DCA’s Facebook audience is older than those on other platforms (40% over 45 years old and 69% over 35 years old. 62% identify as female.). The focus is on highlighting Neighborhood Arts and Cultural Centers, significant cultural events in Los Angeles, and opportunities for artists and families. 
 
