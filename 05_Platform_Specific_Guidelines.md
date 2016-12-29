@@ -64,4 +64,4 @@ Very playful, informative, young
 
 Create stories; stories should be minimum 2 snaps and maximum 5 
 
-
+**[INDEX](index.md) | [PREVIOUS](04_Content_Guidelines.md)**
