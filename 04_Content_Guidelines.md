@@ -100,3 +100,7 @@ Social Media is fun and constantly changing. Read blogs (see the Social Media se
 ###Be Sure to Track What You Test
 
 Sprout Social is an incredible resource for generating timely and dynamic reports. Use the internal tagging (not to be confused with hashtagging) function to track campaigns and test-runs. 
+
+---
+
+**[NEXT](05_Platform_Specific_Guidelines.md)**
