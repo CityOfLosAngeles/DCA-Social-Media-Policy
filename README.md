@@ -25,4 +25,4 @@ This repository is released under Creative Commons Attribution-NonCommercial 4.0
 
 ---
 
-**[NEXT](01_Usage_Policy.md)**
+**[INDEX](index.md) | [NEXT](01_Usage_Policy.md)**
