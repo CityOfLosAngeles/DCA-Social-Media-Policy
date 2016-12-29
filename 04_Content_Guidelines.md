@@ -47,7 +47,7 @@ All requests will be processed in the order they were received. Rush/Immediate r
 
 ###General Audience Persona
 
-We have developed a general audience persona. Write posts as if they were going to the following person.
+We have developed a general audience persona. Write posts as if they were going to the following person:
 
 **Carolina Rowland**
 * Female
