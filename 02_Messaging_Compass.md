@@ -42,4 +42,4 @@ For more information, please visit http://culturela.org or follow us on Facebook
 
 ---
 
-**[INDEX](index.md) | [NEXT](03_Style_Guide.md)**
+**[INDEX](index.md) | [PREVIOUS](01_Use_Policy.md) | [NEXT](03_Style_Guide.md)**
