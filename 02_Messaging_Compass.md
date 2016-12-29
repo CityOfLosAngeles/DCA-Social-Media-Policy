@@ -1,4 +1,4 @@
-#2. MESSAGING COMPASS
+#2. Messaging Compass
 
 ##2.1 Key Values
 * Friendly
