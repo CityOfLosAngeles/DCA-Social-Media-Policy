@@ -78,4 +78,4 @@ For other grammar and citation questions, please consult the [Chicago Style Hand
 
 ---
 
-**[INDEX](index.md) | [NEXT](04_Content_Guidelines.md)**
+**[INDEX](index.md) | [PREVIOUS](02_Messaging_Compass.md) | [NEXT](04_Content_Guidelines.md)**
