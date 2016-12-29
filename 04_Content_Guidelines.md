@@ -103,4 +103,4 @@ Sprout Social is an incredible resource for generating timely and dynamic report
 
 ---
 
-**[NEXT](05_Platform_Specific_Guidelines.md)**
+**[INDEX](index.md) | [NEXT](05_Platform_Specific_Guidelines.md)**
