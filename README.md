@@ -22,3 +22,7 @@ Some of the content and structure were adapted from the Hammer Museum’s Social
 ###Licensing
 
 This repository is released under Creative Commons Attribution-NonCommercial 4.0 International License (CC BY-NC 4.0). This means that you can share/remix the content from this repository as long as you credit the City of Los Angeles Department of Cultural Affairs and use it in noncommercial contexts.
+
+---
+
+**[NEXT](01_Usage_Policy.md)**
