@@ -75,3 +75,7 @@ All titles (shows or works) are italicized. If they cannot be italicized, put th
 For other grammar and citation questions, please consult the [Chicago Style Handbook](https://owl.english.purdue.edu/owl/resource/717/01/).
 
 [If you would like to relive your sophomore high school English class, [this](https://owl.english.purdue.edu/owl/section/1/5/) is a great resource.]
+
+---
+
+**[NEXT](04_Content_Guidelines.md)**
