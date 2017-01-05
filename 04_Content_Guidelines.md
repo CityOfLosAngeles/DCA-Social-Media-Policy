@@ -65,15 +65,15 @@ We have developed a general audience persona. Write posts as if they were going 
 
 ##4.4 Best Practices
 
-###Create Epic Content
+###Create epic content
 
 To build trust and affinity with our public we need to be creating compelling content that encourages people to repost and share with their contacts. This also adds value to our audience furthering the mission of the agency. Looking at what other high traffic accounts and government art agencies post on a regular basis we’ve observed examples of what content works: UNESCO, NEA, NEH, Smithsonian Institution, Americans for the Arts, California Arts Council, MOCA, LACMA, and the Hammer.
 
-###Be Consistent
+###Be consistent
 
 We want to grow our following and encourage engagement. We need to be posting consistently every day. Suggestions are per channel.
 
-###Use Hashtags, when applicable
+###Use hashtags, when applicable
 
 In general hashtags are best when used for timely events/trends. They also categorize content (#dcagrantee) and build community. Refer to the DCA Hashtag Guidelines for specific uses.
 
@@ -81,23 +81,23 @@ In general hashtags are best when used for timely events/trends. They also categ
 
 Every post/tweet needs to have a purpose, and always have a call to action.
 
-###Track your success, and failures
+###Track your success and failures
 
 Reports are sent to the Director of Marketing and Development biweekly. See Report Sample.
 
-###Follow Others
+###Follow others
 
 We use the follow me, follow you strategy, but be strategic and discerning: determine if the profile boosts DCA's mission, and why DCA should follow.
 
-###Share for Shares
+###Share for Ssares
 
 Do as many S4S as you can. This is critical for growth. Get other accounts to amplify. See Social Media Allies document.
 
-###Have Fun & Experiment!
+###Have fun & experiment!
 
 Social Media is fun and constantly changing. Read blogs (see the Social Media section in the feedly.com) and research trends for new and emerging strategies.
 
-###Be Sure to Track What You Test
+###Be sure to track what You test
 
 Sprout Social is an incredible resource for generating timely and dynamic reports. Use the internal tagging (not to be confused with hashtagging) function to track campaigns and test-runs. 
 
