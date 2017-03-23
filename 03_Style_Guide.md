@@ -1,6 +1,6 @@
-#3. Style Guide
+# 3. Style Guide
 
-##3.1 Naming and Spelling
+## 3.1 Naming and Spelling
 
 City of Los Angeles Department of Cultural Affairs (DCA)
 
@@ -44,21 +44,21 @@ DCA Programs and Initiatives (Sample)
 * Private Arts Development Fee Program (ADF)
 * City Art Collection
 
-##3.2 Grammar and Punctuations
+## 3.2 Grammar and Punctuations
 
-###Serial Comma
+### Serial Comma
 
 Use a comma before the “and” in a series: e.g. oranges, bananas, and pears.
 
-###Abbreviations
+### Abbreviations
 
 Write abbreviations without periods: e.g. USA, LA, DCA.
 
-###Possessives
+### Possessives
 
 When creating a possessive with a word or name that ends in an “s” or “z”, use an end apostrophe, i.e. Lucky Dragons’ project The Spreading Ground.
 
-###Paragraphs
+### Paragraphs
 
 The more contemporary practice is to double space between each paragraph rather than indenting the first line of each paragraph.
 
@@ -70,7 +70,7 @@ Image credits are written in the following format: Artist, Title, Year, Size, Ma
 
 All titles (shows or works) are italicized. If they cannot be italicized, put them in quotes, i.e. "Winning the Freedom to Marry.”
 
-##3.3 Further References
+## 3.3 Further References
 
 For other grammar and citation questions, please consult the [Chicago Style Handbook](https://owl.english.purdue.edu/owl/resource/717/01/).
 
