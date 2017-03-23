@@ -1,6 +1,6 @@
-#1. Usage Policy
+# 1. Usage Policy
 
-##1.1 Guidelines
+## 1.1 Guidelines
 
 These are the guidelines and recommended practices for DCA-operated social media and personal engagement with social media. If you have suggestions for how to make these guidelines more helpful and encouraging for further engagement, please contact us at dca.digital@lacity.org.
 
@@ -12,7 +12,7 @@ These are the guidelines and recommended practices for DCA-operated social media
 
 4. Be aware that any social media content, whether public or private, may be subject to public disclosure.
 
-##1.2 Compliance
+## 1.2 Compliance
 
 DCA reserves the right to request that online communications cease if content from an employee, volunteer, and/or intern are in violation of organizational policies, values, or local, state, or federal privacy and intellectual property.
 
