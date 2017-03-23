@@ -1,6 +1,6 @@
-#DCA Social Social Media Policy
+# DCA Social Social Media Policy
 
-##Index
+## Index
 1. [Use Policy](01_Use_Policy.md)
     1. Guidelines
     2. Compliance
