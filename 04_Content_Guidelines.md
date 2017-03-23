@@ -27,7 +27,7 @@
 
 ## 4.2 Procedure
 
-###Requests
+### Requests
 
 Requests for promotion on official DCA Social Media channels are the responsibility of each program director and/or Cultural Center director. Requests for Social Media promotion must be submitted through the request form. The form must be complete.
 
