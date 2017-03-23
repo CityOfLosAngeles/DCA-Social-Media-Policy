@@ -1,6 +1,6 @@
-#2. Messaging Compass
+# 2. Messaging Compass
 
-##2.1 Key Values
+## 2.1 Key Values
 * Friendly
 * Progressive
 * Collaborative
@@ -8,27 +8,27 @@
 * Transparent
 * Authentic
 
-##2.2 Key Messaging
+## 2.2 Key Messaging
 
-###DCA Mission
+### DCA Mission
 
 To strengthen the quality of life in Los Angeles by stimulating and supporting arts and cultural activities, ensuring public access to the arts for residents and visitors alike.
 
-###DCA Vision
+### DCA Vision
 
 DCA is dedicated to enhancing the quality of life in Los Angeles by energizing and supporting arts and culture.
 
-###10-Second Elevator Pitch
+### 10-Second Elevator Pitch
 
 The City of Los Angeles Department of Cultural Affairs generates and supports high quality arts and cultural experiences for Los Angeles’ 4 million residents and 40 million annual visitors.
 
-###100-Word Description
+### 100-Word Description
 
 As a leading, progressive arts and cultural agency, DCA empowers Los Angeles’ vibrant communities by supporting and providing access to quality visual, literary, musical, performing, and educational arts programming; managing vital cultural centers; preserving historic sites; creating public art; and funding services provided by arts organizations and individual artists.
 
 DCA advances the social and economic impact of arts and culture through grantmaking, public art, community arts, and strategic marketing and development. DCA creates and supports arts programming, maximizing relationships with other city agencies, artists, and arts and cultural nonprofit organizations to provide excellent service in neighborhoods throughout Los Angeles.
 
-###Boilerplate
+### Boilerplate
 
 As a leading, progressive arts and cultural agency, DCA empowers Los Angeles’ vibrant communities by supporting and providing access to quality visual, literary, musical, performing, and educational arts programming; managing vital cultural centers; preserving historic sites; 
 creating public art; and funding services provided by arts organizations and individual artists.
