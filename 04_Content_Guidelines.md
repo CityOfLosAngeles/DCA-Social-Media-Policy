@@ -1,8 +1,8 @@
-#4. Content Guidelines
+# 4. Content Guidelines
 
-##4.1 Content Scope
+## 4.1 Content Scope
 
-###What We Post
+### What We Post
 
 * Events (public art unveilings, art center exhibits and class registrations, grants workshops, heritage month celebrations, etc) 
 * Upcoming grants and RFP/Q deadlines
@@ -17,7 +17,7 @@
 * Promotional content for partner institutions
 * Throwbacks to past programs or exhibitions
 
-###What We Do Not Post
+### What We Do Not Post
 
 * Biased political or religious content
 * Offensive content
@@ -25,27 +25,27 @@
 * Artwork that we do not have approval, permission, or rights to post
 * Non-relevant news articles
 
-##4.2 Procedure
+## 4.2 Procedure
 
 ###Requests
 
 Requests for promotion on official DCA Social Media channels are the responsibility of each program director and/or Cultural Center director. Requests for Social Media promotion must be submitted through the request form. The form must be complete.
 
-###Deadlines
+### Deadlines
 
 Requests for promotion on official DCA Social Media channels must be submitted at least 5 business days before requested post date(s).
 
-###Approval
+### Approval
 
 Images and copy will be reviewed for approval prior to post scheduling. Note: we ask for images clear of text and/or graphic elements. We ask this to maintain unity and consistency across channels.
 
-###Submission
+### Submission
 
 All requests will be processed in the order they were received. Rush/Immediate requests are discouraged. All rush requests must be approved by DCA’s Director of Marketing and Development.
 
-##4.3 Voice
+## 4.3 Voice
 
-###General Audience Persona
+### General Audience Persona
 
 We have developed a general audience persona. Write posts as if they were going to the following person:
 
@@ -63,37 +63,37 @@ We have developed a general audience persona. Write posts as if they were going 
 * Works as a managerial level admin at Cal State Long Beach in the Art Department.
 * Takes care in decorating her home and cooking.
 
-##4.4 Best Practices
+## 4.4 Best Practices
 
-###Create epic content
+### Create epic content
 
 To build trust and affinity with our public we need to be creating compelling content that encourages people to repost and share with their contacts. This also adds value to our audience furthering the mission of the agency. Looking at what other high traffic accounts and government art agencies post on a regular basis we’ve observed examples of what content works: UNESCO, NEA, NEH, Smithsonian Institution, Americans for the Arts, California Arts Council, MOCA, LACMA, and the Hammer.
 
-###Be consistent
+### Be consistent
 
 We want to grow our following and encourage engagement. We need to be posting consistently every day. Suggestions are per channel.
 
-###Use hashtags, when applicable
+### Use hashtags, when applicable
 
 In general hashtags are best when used for timely events/trends. They also categorize content (#dcagrantee) and build community. Refer to the DCA Hashtag Guidelines for specific uses.
 
-###ABC (Always Be Closing)
+### ABC (Always Be Closing)
 
 Every post/tweet needs to have a purpose, and always have a call to action.
 
-###Track your success and failures
+### Track your success and failures
 
 Reports are sent to the Director of Marketing and Development biweekly. See Report Sample.
 
-###Follow others
+### Follow others
 
 We use the follow me, follow you strategy, but be strategic and discerning: determine if the profile boosts DCA's mission, and why DCA should follow.
 
-###Share for Ssares
+### Share for Ssares
 
 Do as many S4S as you can. This is critical for growth. Get other accounts to amplify. See Social Media Allies document.
 
-###Have fun & experiment!
+### Have fun & experiment!
 
 Social Media is fun and constantly changing. Read blogs (see the Social Media section in the feedly.com) and research trends for new and emerging strategies.
 
